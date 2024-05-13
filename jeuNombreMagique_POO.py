@@ -1,6 +1,7 @@
 ## Code Python en programmation orientée objet pour trouver le nombre magique
 """
-Voici un exemple de code Python en programmation orientée objet pour trouver le nombre magique :
+Voici un exemple de code Python en programmation orientée objet pour trouver 
+le nombre magique :
 """
 # jeuNombreMagique_POO.python
 import random
@@ -17,7 +18,8 @@ class JeuDevinerNombre:
   Méthodes:
     __init__(self, nombre_magique, essais_max): Initialise le jeu.
     jouer(self): Lance le jeu.
-    verifier_nombre(self, nombre_propose): Vérifie si le nombre proposé est le nombre magique.
+    verifier_nombre(self, nombre_propose): Vérifie si le nombre proposé est 
+    le nombre magique.
     afficher_resultat(self): Affiche le résultat du jeu.
   """
 
